@@ -6,7 +6,7 @@ Earlier this semester Johns Hopkins University announced its plans for the stage
 
 Multiple vaccines (from Moderna, Pfizer-BioNTech, and Johnson & Johnson) have been demonstrated to provide high levels of protection against the COVID virus with reports of only minimal and brief side effects following administration. However, not all countries have had the same access to vaccinations. As a global university with students from all over the world, it is important for Hopkins to consider the global vaccination accessibility. Therefore, this report is analysis of vaccination trends for five countries from where the largest percentage of international students at Hopkins come from. 
 
-Source:
+Source: https://ourworldindata.org/covid-vaccinations
 
 
 ## Business Question
@@ -19,5 +19,16 @@ Analyze vaccine dose availability by country and
 
 
 ## Data Analysis and Visualizations
+
+First, from https://www.collegefactual.com/colleges/johns-hopkins-university/student-life/international/chart-international.html we can extract 5 countries with the highest percentage of Hopkins students:
+1. China 3,260
+2. India 429
+3. South Korea 331
+4. Canada 219 
+5. Turkey 41 
+
+
+
+
 
 ## Conclusion 
