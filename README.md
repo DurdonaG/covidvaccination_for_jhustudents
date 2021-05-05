@@ -41,8 +41,6 @@ Then, from https://www.collegefactual.com/colleges/johns-hopkins-university/stud
 
 Next, we look at the Covid-19 vaccination trends in these countries and do analysis on them. 
 
-![](https://github.com/DurdonaG/covidvaccination_for_jhustudents/blob/main/Images/Vaccinatedby100.png)
-
 ![](https://github.com/DurdonaG/covidvaccination_for_jhustudents/blob/main/Images/vaccinatedpeople.png)
 
 
