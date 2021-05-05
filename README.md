@@ -50,9 +50,18 @@ Among countries with more than 1 million people, Mongolia is currently vaccinati
 
 
 ### Do some countries have an advantage?
+
 Yes, generally richer and more developed countries have better health care infrastructure to manufacture, acquire and administer doses.
 
-About 55% of people who have received at least one dose of a coronavirus vaccine were from high income countries, and at least 53% were from Europe and North America (that only includes data from countries that report these figures.)
+About 55% of people who have received at least one dose of a coronavirus vaccine were from high income countries, and at least 53% were from Europe and North America (that only includes data from countries that report these figures).
+
+### Who is getting vaccinated?
+
+Because of the limited availability of vaccines, most countries are prioritizing certain groups of people to receive their shots before others. People who are older or more likely to become very ill or die from COVID-19 are usually prioritized over those who are young and healthy. Some groups are prioritized because they are more likely to come into contact with an infected person based on what they do or where they live and, in turn, infect others.
+
+Reuters has collected information on these priority groups for dozens of countries and determined which groups are currently eligible for vaccination.
+
+Tap through the table below to see detailed information for each country. We will update this page as more countries acquire vaccines and announce their rollout plans.
 
 
 ## Conclusion 
