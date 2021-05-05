@@ -44,17 +44,17 @@ Next, we look at the Covid-19 vaccination trends in these countries and do analy
 ![](https://github.com/DurdonaG/covidvaccination_for_jhustudents/blob/main/Images/vaccinatedpeople.png)
 
 
-## How fast are countries vaccinating?
+### How fast are countries vaccinating?
 
 Among countries with more than 1 million people, Mongolia is currently vaccinating faster than any other, administering a daily average of 2,289 doses per 100,000 people in the past seven days. Their fastest was about 2,289 doses per 100,000 people per day.
 
 
-## Do some countries have an advantage?
+### Do some countries have an advantage?
 Yes, generally richer and more developed countries have better health care infrastructure to manufacture, acquire and administer doses.
 
-About 55% of people who have received at least one dose of a coronavirus vaccine were from high income countries, and at least 53% were from Europe and North America. (Again, that only includes data from countries that report these figures.)
+About 55% of people who have received at least one dose of a coronavirus vaccine were from high income countries, and at least 53% were from Europe and North America (that only includes data from countries that report these figures.)
 
 
 ## Conclusion 
 
-To conclude, vaccination availabilitty differs by country 
+To conclude, vaccination availabilitty differs by country depending on various factors such as health care infrastructure to manafacture. 
