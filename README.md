@@ -34,6 +34,8 @@ Then, from https://www.collegefactual.com/colleges/johns-hopkins-university/stud
 3. South Korea 331
 4. Canada 219 
 5. Turkey 41 
+
+
 ![](https://github.com/DurdonaG/covidvaccination_for_jhustudents/blob/main/Images/international%20student%20countries.png)
 
 
