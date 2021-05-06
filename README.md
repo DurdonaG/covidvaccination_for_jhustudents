@@ -63,7 +63,7 @@ Because of the limited availability of vaccines, most countries are prioritizing
 
 ## Conclusion 
 
-To conclude, vaccination availabilitty differs by country depending on various factors such as health care infrastructure to manafacture. 
+To conclude, vaccination availability differs by country depending on various factors such as health care infrastructure to manafacture. 
 Since Johns Hopkins University serves a critical role as an economic anchor in the city, regular in-person contact among faculty, students, and staff is fundamental to the vitality of the university. Therefore, collaboration among deans, staff members, and consultative bodies such as the University Pandemic Academic Advisory Committee is extremely important. Moreover, developing the safety guidelines and templates for various work arrangements, following COVID Testing and Other Health and Safety Protocols for all staff memebers and students will be critical.
 As for international students, considering the uneven access to vacination globally, we believe that the feedback needs to be collected from the incoming international students. University needs to facilitate opportunities for students who are unable to get vaccinated in their home jurisdictions to be vaccinated when they arrive on campus.
 
