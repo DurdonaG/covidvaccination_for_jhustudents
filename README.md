@@ -24,7 +24,10 @@ Analyze vaccine dose availability by country
 
 First we perform geospatial analysis on JHU and its popularity is globally. We analyse international student trends at Johns Hopkins University to discover how Johns Hopkins stacks up to the competition when it comes to serving students from outside the United States.
 
-Following maps show Popularity ranking of JHU by country and Value ranking of JHU by country: 
+Following maps show Popularity ranking of JHU by country and Value ranking of JHU by country. 
+
+According to collegefactual.com, popularity ranking is how popular and highly- ranked university is compared to other universities in certain countries. Quality ranking stands for the position of the university within a certain country. 
+
 ![](https://github.com/DurdonaG/covidvaccination_for_jhustudents/blob/main/Images/PopularityRankingJHU.png) 
 
 ![](https://github.com/DurdonaG/covidvaccination_for_jhustudents/blob/main/Images/ValueRanking.png)
